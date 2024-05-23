@@ -32,5 +32,5 @@ The use of cryptocurrency mixers has both ethical and legal implications, partic
 
 ## References
 
-For a detailed exploration of the protocol, please refer to the [Final Paper](https://drive.google.com/file/d/16ENwnxXkCq2KCAyoTnItJwQoNbcMloET/view?usp=share_link).
+For a detailed exploration of the protocol, please refer to the [Final Paper]([https://drive.google.com/file/d/16ENwnxXkCq2KCAyoTnItJwQoNbcMloET/view?usp=share_link](https://drive.google.com/file/d/1_j7_Y8CcjpBOMj72XYYeOZxlfyf_jpk3/view?usp=share_link)).
 
